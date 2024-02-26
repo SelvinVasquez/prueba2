@@ -6,7 +6,7 @@ int main(){
     cout<<"Ingrese un numero";
     cin>>numero;
     while (i <= numero){
-        if(i % 2 ==0){0
+        if(i % 2 ==0){
             cout<<i<<endl;
         }
         i++;
